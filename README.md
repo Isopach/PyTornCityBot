@@ -3,8 +3,8 @@ Python bot for browser-based text game
 
 This ia a WIP. 
 
-# Features available
+### Features available
 Automatically deposit money (so you don't get mugged)
 
-# Features in Progress
+### Features in Progress
 Auto gym (CAPTCHA bypass needed)
