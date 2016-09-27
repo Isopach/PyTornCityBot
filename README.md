@@ -1,5 +1,5 @@
 # PyTornCityBot
-Python bot for browser-based text game
+Python bot for browser-based text game 'Torncity'.
 
 This ia a WIP. 
 
